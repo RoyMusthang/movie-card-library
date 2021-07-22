@@ -34,6 +34,13 @@ const movies = [
     rating: 4.2,
     imagePath: 'images/Resident_Evil_Vendetta.jpg',
   },
+  {
+    title: 'MC Poze do Rodo',
+    subtitle: 'Pitbull do funk',
+    storyline: 'Durante a carreira, o artista protagonizou memes e conflitos com a Justiça, Marlon Brandon Coelho Couto da Silva, o MC Poze, nasceu na favela do Rodo, localizada no Rio de Janeiro (RJ).',
+    rating: 10,
+    imagePath: 'images/mc-poze-do-rodo-foto-reprodução-instagram_HORIZONTAL.jpg',
+  },
 ];
 
 export default movies;
